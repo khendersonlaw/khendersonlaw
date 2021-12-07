@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @khendersonlaw
+- 👀 I’m interested in developing solutions to streamline my legal practice
+- 🌱 I’m currently learning everything about GitHub
